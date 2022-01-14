@@ -2,7 +2,7 @@
 
 <p align="center">This project ...</p>
 
-## table of Contents
+## Table of Contents
 
 * [Introduction](#Introduction)
 * [How to use](#How-to-use)
@@ -20,7 +20,7 @@
 
 - [x] Make Title
 - [x] Make Table of Contents
-- [ ] Make Introduction
+- [x] Make Introduction
 - [ ] How to Use
 - [x] Make Requirements
 - [x] Make Download Packages
@@ -29,26 +29,31 @@
 
 # ⁉️ Introduction
 
+This program is a process automation used to solver a problem that affects an international Importer. 
+The Importer calculates the purchase prices and sales price according to the current dollar price, Gold price and Euro price.
+this program has to do the get of the current prices in the Internet, calculates the purchase price and sales price and update the database with the new values.
+
 # ⏯️ How to use
 
 # 🧾 Requirements
 
 To run this program, you will need to download the following tools:
 [Python](https://www.python.org/downloads/), [Git](https://git-scm.com/downloads) and
-[ChromeDriver](https://chromedriver.chromium.org/downloads). Choice your Chrome browser version and Download.
+[ChromeDriver](https://chromedriver.chromium.org/downloads).
+Choose your Chrome browser version on the website and Download.
 
     - If you don't know where to find the Chrome version, watch the gif below.
 
-![](Chrome_Version.gif)
+![](Gifs/Chrome_Version.gif)
 
 # 🔽 Download Packages
 
-we run the following Packages in the program that allow us to create the code:
+Run the following Packages in the program that allow us to create the code:
 - to install [Selenium](https://selenium-python.readthedocs.io/installation.html), execute "pip install selenium" in your code editor. 
 - And to install [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) execute "pip install pandas".
 
 
-# 📚 Import-Module
+# 📚 Import Module
 
 In this project, we used selenium to automate a process of getting the price of Gold, Euro and Dollar.
 
