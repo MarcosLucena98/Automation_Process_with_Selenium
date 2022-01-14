@@ -21,10 +21,15 @@
 - [x] Make Title
 - [x] Make Table of Contents
 - [ ] Make Introduction
+- [ ] How to Use
+- [x] Make Requirements
+- [x] Make Download Packages
+- [ ] make Import Module
+
 
 # ⁉️ Introduction
 
-# ⏯️ Hou to use
+# ⏯️ How to use
 
 # 🧾 Requirements
 
@@ -37,6 +42,10 @@ To run this program, you will need to download the following tools:
 ![](Chrome_Version.gif)
 
 # 🔽 Download Packages
+
+we run the following Packages in the program that allow us to create the code:
+- to install [Selenium](https://selenium-python.readthedocs.io/installation.html), execute "pip install selenium" in your code editor. 
+- And to install [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started) execute "pip install pandas".
 
 
 # 📚 Import-Module
